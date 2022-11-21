@@ -12,6 +12,6 @@ This application is used to for predicting personality traits and gain useful in
 3. Specify the data files path in the code accordingly.
 # Run the application as
 
-Rscript project_code.R
+```Rscript project_code.R```
 
 Wait for around an hour. Now, you should be able to see the plots available on RStudio.
