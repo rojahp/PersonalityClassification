@@ -11,7 +11,7 @@ This application is used to for predicting personality traits and gain useful in
 2. Download Data [Michal Kosinski] (https://drive.google.com/file/d/15v2umVbv1OarPfNrePH9V-KPk7qqA6Cg)
 3. Specify the data files path in the code accordingly.
 # Run the application as
-
-Rscript project_code.R
-
+```
+source project_code.R
+```
 Wait for around an hour. Now, you should be able to see the plots available on RStudio.
