@@ -7,9 +7,10 @@ This application is used to for predicting personality traits and gain useful in
 
 # Pre-requisites
 
-1. Install [RStudio) ](https://rstudio-education.github.io/hopr/starting.html)
+1. Install [RStudio] (https://rstudio-education.github.io/hopr/starting.html)
 2. Download Data [Michal Kosinski] (https://drive.google.com/file/d/15v2umVbv1OarPfNrePH9V-KPk7qqA6Cg)
 3. Specify the data files path in the code accordingly.
+
 # Run the application as
 
 ```Rscript project_code.R```
