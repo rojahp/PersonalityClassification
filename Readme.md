@@ -9,10 +9,9 @@ This application is used to for predicting personality traits and gain useful in
 
 1. Install [RStudio) ](https://rstudio-education.github.io/hopr/starting.html)
 2. Download Data [Michal Kosinski] (https://drive.google.com/file/d/15v2umVbv1OarPfNrePH9V-KPk7qqA6Cg)
-
+3. Specify the data files path in the code accordingly.
 # Run the application as
 
-```source project_code.R
-```
+Rscript project_code.R
 
 Wait for around an hour. Now, you should be able to see the plots available on RStudio.
